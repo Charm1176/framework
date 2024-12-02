@@ -1,0 +1,10 @@
+2024-12-01 16:46:42,143 [main] INFO Shakti - opening url
+2024-12-01 16:46:46,504 [main] INFO Shakti - entering details
+2024-12-01 16:46:47,319 [main] INFO Shakti - clicking on the login button
+2024-12-01 16:46:48,612 [main] INFO Shakti - asserting the title
+2024-12-01 16:46:49,801 [main] INFO Shakti - quit the browser
+2024-12-01 16:48:36,908 [main] INFO Shakti - opening url
+2024-12-01 16:48:43,770 [main] INFO Shakti - entering details
+2024-12-01 16:48:46,537 [main] INFO Shakti - clicking on the login button
+2024-12-01 16:48:48,525 [main] INFO Shakti - asserting the title
+2024-12-01 16:48:49,748 [main] INFO Shakti - quit the browser
